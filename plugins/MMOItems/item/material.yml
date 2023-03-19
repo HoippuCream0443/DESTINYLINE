@@ -823,7 +823,7 @@ MANAIRON_INGOT:
     name: '&aミアル魔鉄鉱'
     tier: UNCOMMON
     lore:
-    - '&f魔力が宿ったことで硬度が増した鉄鉱石。'
+    - '&fマナが宿ったことで硬度が増した鉄鉱石。'
 
 GIRNEYLA_INGOT:
   base:
@@ -882,3 +882,242 @@ CKRAD_ELVA:
     - '&f滅多に見られない奇跡の精錬石。'
     - '&f使用すると、どんな武器も一級の物に生まれ変わる。'
     - '&b【精錬用アイテム】'
+
+MIKAGE_TAIL:
+  base:
+    material: twisting_vines
+    name: '&a海影のしっぽ'
+    tier: UNCOMMON
+    lore:
+    - '&f海影が持つ大きなしっぽ。'
+    - '&e【クエストアイテム】'
+
+FIRE_EMBLEM:
+  base:
+    material: fire_charge
+    name: '&9炎の刻印'
+    tier: RARE
+    lore:
+    - '&fアルカナゴーレムに刻まれていた'
+    - '&f燃え滾る炎の刻印。'
+    - '&e【クエストアイテム】'
+
+WATER_EMBLEM:
+  base:
+    material: heart_of_the_sea
+    name: '&9水の刻印'
+    tier: RARE
+    lore:
+    - '&fアルカナゴーレムに刻まれていた'
+    - '&f渦巻く水の刻印。'
+    - '&e【クエストアイテム】'
+
+EARTH_CORE:
+  base:
+    material: firework_star
+    name: '&9アースコア'
+    tier: RARE
+    lore:
+    - '&fアースクリーパーのエネルギーが'
+    - '&f封じ込められた核。'
+    - '&e【クエストアイテム】'
+
+KNIGHT_EMBLEM:
+  base:
+    material: black_glazed_terracotta
+    name: '&9ナイトの刻印'
+    tier: RARE
+    lore:
+    - '&fグラウンドスケルトンに刻まれた'
+    - '&f誇り高いナイトの刻印。'
+    - '&e【クエストアイテム】'
+
+SEEKER_EMBLEM:
+  base:
+    material: cyan_glazed_terracotta
+    name: '&9シーカーの刻印'
+    tier: RARE
+    lore:
+    - '&fグラウンドスケルトンに刻まれた'
+    - '&f思慮深いシーカーの刻印。'
+    - '&e【クエストアイテム】'
+
+SAINT_EMBLEM:
+  base:
+    material: yellow_glazed_terracotta
+    name: '&9セイントの刻印'
+    tier: RARE
+    lore:
+    - '&fグラウンドスケルトンに刻まれた'
+    - '&f荘厳なセイントの刻印。'
+    - '&e【クエストアイテム】'
+
+MAGICIAN_EMBLEM:
+  base:
+    material: purple_glazed_terracotta
+    name: '&9マジシャンの刻印'
+    tier: RARE
+    lore:
+    - '&fグラウンドスケルトンに刻まれた'
+    - '&f怪しげなマジシャンの刻印。'
+    - '&e【クエストアイテム】'
+
+WHITE_BONE:
+  base:
+    material: bone
+    name: '&a白い骸骨'
+    tier: UNCOMMON
+    lore:
+    - '&f人間の白い骨。'
+    - '&f微かにマナを感じる。'
+    - '&e【クエストアイテム】'
+
+MUTANT_JELLILI_DEBRIS:
+  base:
+    material: slime_ball
+    name: '&9ミュータントゼリリの破片'
+    tier: RARE
+    lore:
+    - '&f変異したゼリリの体の欠片。'
+    - '&fあまり長いこと触れていたくない。'
+    - '&e【クエストアイテム】'
+
+MUTANT_JELLY:
+  base:
+    material: lime_dye
+    name: '&a変質したゼリー'
+    tier: UNCOMMON
+    lore:
+    - '&f変異したゼリリから採れる'
+    - '&fどこか奇妙なプルプルのゼリー。'
+    - '&e【クエストアイテム】'
+
+JUSTMOIST_CLOTH:
+  base:
+    material: paper
+    name: '&a程よく湿った布'
+    tier: UNCOMMON
+    lore:
+    - '&f程よく良い感じに水分を'
+    - '&f吸った布。'
+    - '&e【クエストアイテム】'
+
+JUSTFIRE_CLOTH:
+  base:
+    material: paper
+    name: '&a程よく燃えた布'
+    tier: UNCOMMON
+    lore:
+    - '&f程よく良い感じに乾き'
+    - '&f焦げ目のついた布。'
+    - '&e【クエストアイテム】'
+
+HARD_BONEPOWDER:
+  base:
+    material: bone_meal
+    name: '&a硬い骨の粉'
+    tier: UNCOMMON
+    lore:
+    - '&f強靭な骨を粉々に粉砕した物。'
+    - '&e【クエストアイテム】'
+
+BEST_BONE:
+  base:
+    material: bone
+    name: '&9極上の骨'
+    tier: RARE
+    lore:
+    - '&f硬く、豊富なマナを宿した'
+    - '&f極上の骨。'
+    - '&e【クエストアイテム】'
+
+RARE_BONE:
+  base:
+    material: bone
+    name: '&a珍しい骨'
+    tier: UNCOMMON
+    lore:
+    - '&fマナを宿した希少価値の高い骨。'
+    - '&e【クエストアイテム】'
+    
+MASTER_BONE:
+  base:
+    material: bone
+    name: '&e達人の骨'
+    tier: VERYRARE
+    lore:
+    - '&f力を極めた人間の骨。'
+    - '&f鬼のような力と歴戦の経験が'
+    - '&f骨の髄まで宿っている。'
+    - '&e【クエストアイテム】'
+
+WARRIOR_EMBLEM:
+  base:
+    material: red_glazed_terracotta
+    name: '&9ウォーリアーの刻印'
+    tier: RARE
+    lore:
+    - '&fスケルトンの体に刻まれていた'
+    - '&f力強いウォーリアーの刻印。'
+    - '&e【クエストアイテム】'
+
+SHAMAN_EMBLEM:
+  base:
+    material: gray_glazed_terracotta
+    name: '&9シャーマンの刻印'
+    tier: RARE
+    lore:
+    - '&fスケルトンの体に刻まれていた'
+    - '&f不可思議なシャーマンの刻印。'
+    - '&e【クエストアイテム】'
+
+ARCHER_EMBLEM:
+  base:
+    material: brown_glazed_terracotta
+    name: '&9アーチャーの刻印'
+    tier: RARE
+    lore:
+    - '&fスケルトンの体に刻まれていた'
+    - '&f精密なアーチャーの刻印。'
+    - '&e【クエストアイテム】'
+
+INSULATOR:
+  base:
+    material: netherite_ingot
+    name: '&a絶縁体'
+    tier: UNCOMMON
+    lore:
+    - '&fサンダー・エレメントが'
+    - '&f電気を制御するために使う、'
+    - '&f電流を通さない物質。'
+    - '&e【クエストアイテム】'
+
+ELECTRIC_ROD:
+  base:
+    material: blaze_rod
+    name: '&9電気を帯びた棒'
+    tier: RARE
+    lore:
+    - '&f激しい電気を帯びた棒。'
+    - '&f取り扱いには注意が必要。'
+    - '&e【クエストアイテム】'
+
+MAGMA_POUCH:
+  base:
+    material: fire_charge
+    name: '&a溶岩袋'
+    tier: UNCOMMON
+    lore:
+    - '&fマグマ・エレメントが有する'
+    - '&f溶岩をため込む袋。'
+    - '&e【クエストアイテム】'
+
+MOLTEN_UNKNOWN_INGOT:
+  base:
+    material: glowstone_dust
+    name: '&9溶けた謎のインゴット'
+    tier: RARE
+    lore:
+    - '&fドロドロに溶けた、何かしらの'
+    - '&f金属のインゴット。'
+    - '&e【クエストアイテム】'
